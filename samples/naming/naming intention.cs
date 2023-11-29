@@ -16,13 +16,13 @@ void SaveUserStatus()
 }
 
 // Mal
-string[] a = { "Ford", "Rena", "Citroen", "Mazda" };
+string[] a = { "Ford", "Renault", "Citroen", "Mazda" };
 foreach (var element in a)
 {
     // ...
 }
 // Bien
-string[] carMakers = { "Ford", "Rena", "Citroen", "Mazda" };
+string[] carMakers = { "Ford", "Renault", "Citroen", "Mazda" };
 foreach (var maker in carMakers)
 {
     // ...
