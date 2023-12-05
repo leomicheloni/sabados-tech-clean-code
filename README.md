@@ -2,3 +2,5 @@
 
 - [Ejemplos](samples)
 - [Presentación](Disminuyendo%20la%20carga%20cognitiva%20de%20nuestro%20código%20a.pdf)
+
+- [Grabacción de la charla](https://youtu.be/16eA3BGAZbY)
